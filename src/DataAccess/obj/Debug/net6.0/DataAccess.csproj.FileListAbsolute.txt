@@ -1,0 +1,14 @@
+C:\DEV\RapidPay\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\DEV\RapidPay\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\DEV\RapidPay\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+C:\DEV\RapidPay\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\DEV\RapidPay\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\RapidPay\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\DEV\RapidPay\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\DEV\RapidPay\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\DEV\RapidPay\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\DEV\RapidPay\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\DEV\RapidPay\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\DEV\RapidPay\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\DEV\RapidPay\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\DEV\RapidPay\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache

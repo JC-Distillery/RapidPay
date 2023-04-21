@@ -1,0 +1,15 @@
+C:\DEV\RapidPay\BussinesLogic\bin\Debug\net6.0\BussinesLogic.deps.json
+C:\DEV\RapidPay\BussinesLogic\bin\Debug\net6.0\BussinesLogic.dll
+C:\DEV\RapidPay\BussinesLogic\bin\Debug\net6.0\ref\BussinesLogic.dll
+C:\DEV\RapidPay\BussinesLogic\bin\Debug\net6.0\BussinesLogic.pdb
+C:\DEV\RapidPay\BussinesLogic\bin\Debug\net6.0\DataAccess.dll
+C:\DEV\RapidPay\BussinesLogic\bin\Debug\net6.0\DataAccess.pdb
+C:\DEV\RapidPay\BussinesLogic\obj\Debug\net6.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\DEV\RapidPay\BussinesLogic\obj\Debug\net6.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\RapidPay\BussinesLogic\obj\Debug\net6.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\DEV\RapidPay\BussinesLogic\obj\Debug\net6.0\BussinesLogic.AssemblyInfo.cs
+C:\DEV\RapidPay\BussinesLogic\obj\Debug\net6.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\DEV\RapidPay\BussinesLogic\obj\Debug\net6.0\BussinesLogic.csproj.CopyComplete
+C:\DEV\RapidPay\BussinesLogic\obj\Debug\net6.0\BussinesLogic.dll
+C:\DEV\RapidPay\BussinesLogic\obj\Debug\net6.0\ref\BussinesLogic.dll
+C:\DEV\RapidPay\BussinesLogic\obj\Debug\net6.0\BussinesLogic.pdb
